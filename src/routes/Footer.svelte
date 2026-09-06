@@ -25,7 +25,7 @@
 </h3>
 <ul>
 <li><a class="footer_link" href="#">Templates</a></li>
-<li><a class="footer_link" href="#Pricing">Pricing</a></li>
+<li><a class="footer_link" href="#">Pricing</a></li>
 <li><a class="footer_link" href="#">AI Prompting</a></li>
 <li><a class="footer_link" href="#">Deploy</a></li>
 </ul>
